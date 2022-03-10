@@ -11,7 +11,7 @@ body{
 </style>
 
 <style>
-h2{
+p{
     background-color: yellow;
 
 }
