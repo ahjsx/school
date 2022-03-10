@@ -19,7 +19,7 @@ p{
 <p><h2>hello</h2>
 
 <p>JORDAN IS KOOL
-<P><a href="https://www.schoolbox.com/"> <target="_blank">schoolbox</a>
+<P><a href="https://www.schoolbox.com/">schoolbox</a>
 
 
 
