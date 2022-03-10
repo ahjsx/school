@@ -3,11 +3,12 @@
 <html>
 
 <body>
-
+<style>
 {
-    background-color
+    background-color: blue;
 
 }
+</style>
 <p>hello
 
 
