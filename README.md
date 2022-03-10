@@ -18,7 +18,7 @@ p{
 </style>
 <p><h2>hello</h2>
 
-<p>JORDAN FRAGIONI
+<p>JORDAN IS KOOL
 
 
 
