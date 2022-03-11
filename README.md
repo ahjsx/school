@@ -18,8 +18,9 @@ p{
 </style>
 <p><h2>hello</h2>
 
-<p>JORDAN IS KOOL
+    <p>.<center>JORDAN IS KOOL</center>
 <P><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
+    
 
 
 
