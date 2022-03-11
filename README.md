@@ -11,7 +11,7 @@ body{
 </style>
 
 <style>
-p{
+center{
     background-color: yellow;
 
 }
