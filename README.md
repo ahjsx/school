@@ -25,11 +25,6 @@ center{
         background-color: red;
 
     }
-
-    p{
-        font: black
-        
-    }
 <P><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
     
 
