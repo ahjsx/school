@@ -22,7 +22,7 @@ center{
 
 <style>
     p{
-        background-color: red;
+        background-color: white;
 
     }
 <P><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
