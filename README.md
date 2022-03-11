@@ -20,13 +20,14 @@ center{
 
     <p>.<center>JORDAN IS KOOL</center>
 
+
+<p><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
+
 <style>
     p{
         background-color: white;
 
     }
-<p><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
-
 
 <p><h5>JORDEN DOESNT LIKE HIS NAME ON THIS WEBSITE IDK Y JORDAN FRAGIONE   </h5>
 
