@@ -22,7 +22,19 @@ center{
 
 <p><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
 
+<style>
+p{
+    background-color: white;
 
+}
+</style>
+
+
+
+
+
+</body>
+</html>
     
 
 
