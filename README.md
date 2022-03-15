@@ -4,9 +4,8 @@
 
 <body>
 <style>
-body{
-    background-color: blue;
-
+body {
+  background-image: url('./image/Unknown.jpg');
 }
 </style>
 
@@ -23,11 +22,7 @@ center{
 
 <p><a href="https://schoolbox.scr.vic.edu.au/login/">schoolbox</a>
 
-<style>
-body {
-  background-image: url('./image/Unknown.jpg');
-}
-</style>
+
     
 
 
